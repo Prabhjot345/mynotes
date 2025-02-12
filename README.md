@@ -20,7 +20,7 @@
   * 12:00 - [comp1236](https://learn.georgebrown.ca/d2l/home/337951)
 - Thursday
   * 10:00 - [comp1234](https://learn.georgebrown.ca/d2l/home/342901)
-  * 12:00 - [comp1162]((https://learn.georgebrown.ca/d2l/home/319795)
+  * 12:00 - [comp1162](https://learn.georgebrown.ca/d2l/home/319795)
   * 14:00 - [comp1151](https://learn.georgebrown.ca/d2l/home/335101)
 - Friday
   * 12:00 - [comp1000](https://learn.georgebrow.ca/d2l/home/315722)
