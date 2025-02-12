@@ -24,6 +24,8 @@
   * 14:00 - [comp1151](https://learn.georgebrown.ca/d2l/home/335101)
 - Friday
   * 12:00 - [comp1000](https://learn.georgebrow.ca/d2l/home/315722)
+ 
+    https://github.com/Prabhjot345/mynotes
   
  
   
