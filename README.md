@@ -5,7 +5,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
  ## Lecture
--  [lecture summaries](comp1238.md)
+- [lecture summaries](comp1238.md)
 
 ## Schedule
 - Monday
@@ -25,7 +25,7 @@
 - Friday
   * 12:00 - [comp1000](https://learn.georgebrow.ca/d2l/home/315722)
  
-    [https://github.com/Prabhjot345/mynotes]
+    
   
  
   
